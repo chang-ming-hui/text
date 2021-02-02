@@ -1,5 +1,0 @@
-#include<stdio.h>
-int main()
-{哈哈33
-printf("hello world");
-}
